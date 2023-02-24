@@ -1,3 +1,6 @@
 .parent {
   border: 1px solid black;
 }
+.child {
+  border: 1px dashed red;
+}
